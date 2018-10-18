@@ -2,7 +2,7 @@
 # Author: Mike Min 
 # Email: msner10010@hotmail.com
 
-# usage: python3 thread.py
+# usage: python3 _main_.py
 
 import threading as pcthread  #class for multithreading
 import time

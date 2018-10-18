@@ -1,4 +1,4 @@
-#change file name of thread into multithread; add __main__
+# the main function
 
 # usage: python3 __main__.py
 
